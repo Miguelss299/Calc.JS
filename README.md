@@ -1,9 +1,10 @@
 # Calc JS
 
 Calc JS it's a basic project, created using javascript and css.
-One of my first projects, to create a promising portfolio
 
-Thank you for your visit
+One of my first projects, to create a promising portfolio.
+
+Thank you for your visit!
 
 ## Contributing
 
